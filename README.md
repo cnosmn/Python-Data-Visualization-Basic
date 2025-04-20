@@ -96,18 +96,18 @@ jupyter notebook
 Or execute the scripts directly:
 
 ```bash
-python example_script.py
+python data_visualization_v1.py  # or data_visualization_v2
 ```
 
 ## File Descriptions
 
-- **data_visualization_v1.txt** - Contains examples using flights and Titanic datasets, focusing on:
+- **data_visualization_v1.py** - Contains examples using flights and Titanic datasets, focusing on:
   - Basic data exploration
   - Categorical plots
   - Distribution plots
   - Violin and box plots
 
-- **data_visualization_v2.txt** - Contains examples using tips dataset and financial data, focusing on:
+- **data_visualization_v2.py** - Contains examples using tips dataset and financial data, focusing on:
   - Relationship plots
   - Time series analysis
   - Advanced customization
